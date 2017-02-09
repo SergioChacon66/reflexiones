@@ -1,0 +1,13 @@
+pues amm.... con el comando diff y nos dira en que linea esta el error
+
+Con el control de versiones es posible acceder a toda la historia de un archivo
+
+se dbe elegir con cuidado cuando elegir hacer un commint ya que hacerlo demasiada veces no garantisa un buen control de version, algial que hacerlo pocas veces
+
+por que esos archivos pueden pertenercer a un proyecto, por lo que trabajan en union
+
+el comando git log funciona para ver los id de las versiones que se tienen del archivo y git diff funciona para ver los cambio entre do2 versiones de un mismo archivo
+
+pues... amm... para revisar el funcionamiento de algun algoritmo antes de su modificación y despues de modificación
+
+no se, solo hago el curso por tarea :(
