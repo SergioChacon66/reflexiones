@@ -1,3 +1,9 @@
 pues no se...
 
 pues que el area de trabajo esablece los archivos de los que ara control de versione y el directorio solo la ubucacion de el control de las eriones
+
+no se lapregunta :(
+
+pues las ramas funcionan para mantener varias versiones del mismo proyecto con funciones experimentales
+
+personalmente creo que no tiene ningun pro que se realizae la conbinacion auomaticamente, creo que siempre es mejor realizarse de manera manual
