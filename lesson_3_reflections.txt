@@ -1,1 +1,2 @@
-
+hen would you want to use a remote repository rather than keeping all your work local?
+pues amm... cuando no tenga mi equipo conmigo y necesite realizar alguna cambio/modificación de algun archivo
